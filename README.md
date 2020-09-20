@@ -6,7 +6,7 @@ This is an example Github repository that uses GitHub's free [Pages feature](htt
 
 Make sure to fork it using `your-github-username.github.io` as the name of the fork.
 
-Once created, your page will be available at `https://your-github-username.github.io`.
+Once created, your page will be available at `https://comparative-science-of-cultures.github.io`.
 
 Please file an issue in this repository if you have any trouble.
 
